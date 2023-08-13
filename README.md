@@ -9,9 +9,9 @@
 
 The server is built with [Node.js](https://nodejs.org), and uses [blessed](https://github.com/chjj/blessed) as a dependency.
 
-For other people to play with you, you'll need to set up **Port Forwarding** or use a service like [Hamachi](https://www.vpn.net/) or [ngrok](https://ngrok.com/).
+For other people to play with you, you'll need to set up **Port Forwarding** or use a service like [Hamachi](https://www.vpn.net/).
 
-If you still have questions after reading this entire page, you can DM me on Discord @XieneDev#7006. I will not answer questions about how to port forward, set up Hamachi or use ngrok.
+If you still have questions after reading this entire page, you can DM me on Discord @tydevx.
 
 # How to run it
 
