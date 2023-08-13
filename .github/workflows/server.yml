@@ -12,7 +12,7 @@ jobs:
           node-version: 16
       - run: npm install
 
-  win ip config:
+  ipconfig:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v3
